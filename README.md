@@ -1,0 +1,2 @@
+# Pocketmine-eggwars
+/ew help 
